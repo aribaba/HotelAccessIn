@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* Theme Name:HotelAccessIn */
+
+@import url(./css/common.css);
+@import url(./css/contents.css);
+@import url(./css/header.css);
+@import url(./css/sidebar.css);
+@import url(./css/footer.css);
